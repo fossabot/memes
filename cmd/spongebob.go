@@ -3,9 +3,10 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"ilie.io/go/memes/spongebob"
 	"os"
 	"strings"
+
+	"ilie.io/go/memes/spongebob"
 )
 
 func main() {
