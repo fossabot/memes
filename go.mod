@@ -1,1 +1,1 @@
-module ilie.io/go/memes
+module go.ilie.io/memes
