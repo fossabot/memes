@@ -9,7 +9,7 @@ package main
 import (
 	"fmt"	
 	
-	"ilie.io/go/memes/spongebob"
+	"go.ilie.io/memes/spongebob"
 )
 
 func main() {
