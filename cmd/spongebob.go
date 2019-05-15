@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"ilie.io/go/memes/spongebob"
+	"go.ilie.io/memes/spongebob"
 )
 
 func main() {
