@@ -1,4 +1,6 @@
 # Memes
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcalini%2Fmemes.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcalini%2Fmemes?ref=badge_shield)
+
 
 This repo contains the ULTIMATE™ toolchain to creating the Dankest Memes™.
 
@@ -28,3 +30,7 @@ go build cmd./spongebob.go -o spongebob && ./spongebob "hello world"
 > hELlO wOrlD
 ```
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcalini%2Fmemes.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcalini%2Fmemes?ref=badge_large)
